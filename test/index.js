@@ -1,4 +1,4 @@
-process.env.NODE_ENV = 'test'
+process.env.NODE_ENV = "test";
 
-require('./routes')
-require('./models')
+require("./routes");
+require("./models");
